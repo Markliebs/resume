@@ -1,0 +1,11 @@
+#slowFade {
+  -webkit-animation-duration: 5s;
+  
+}
+
+.resPanel {
+margin-right: 10%;
+margin-left: 10%;
+margin-top: 50px;
+width: 80%;
+}
