@@ -5,7 +5,16 @@
 
 .resPanel {
 margin-top: 25px;
+text-align: center;
+margin-left: 10px;
+margin-right: 10px;
 /*margin-right: 10%;
 margin-left: 10%;
 width: 80%;*/
+}
+
+.resPanel2 {
+  margin-left: 20%;
+  margin-right: 20%;
+  width: 60%;
 }
