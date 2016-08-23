@@ -1,6 +1,6 @@
 #slowSlide {
   -webkit-animation-duration: 5s;
-  
+
 }
 
 .resPanel {
@@ -19,7 +19,7 @@ width: 80%;*/
   width: 60%;
 }
 
-.resPanel:hover { 
+/*.resPanel:hover { 
     margin-left: 30%;
     margin-right: 30%;
     width: 40%;
@@ -27,7 +27,7 @@ width: 80%;*/
 }
 }
 
-.resPanelTest:hover { 
+.resPanelTest:hover {
     margin-left: 30%;
     margin-right: 30%;
     width: 40%;
@@ -37,4 +37,4 @@ width: 80%;*/
     margin-left: 40%;
     margin-right: 40%;
     width: 20%;
-}
+}*/

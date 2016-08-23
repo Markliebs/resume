@@ -1,26 +1,26 @@
-// $(document).ready(function() {     
-//     $('#second, #third').hover(function(){     
-//         $('#first').addClass('blue');    
-//     },     
-//     function(){    
-//         $('#first').removeClass('blue');     
+// $(document).ready(function() {
+//     $('#second, #third').hover(function(){
+//         $('#first').addClass('blue');
+//     },
+//     function(){
+//         $('#first').removeClass('blue');
 //     });
-// });   
+// });
 
 
 
 
-$(document).ready(function() {    
+$(document).ready(function() {
 $( ".resPanel" ).hover(
   function() {
-    $( this ).addClass( "animated pulse" );
-    console.log("wax on");
+    $( this ).addClass( "animated infinite pulse" );
+    console.log("Wax On");
   }, function() {
-    $( this ).removeClass( "animated pulse" );
-    console.log("wax off");
+    $( this ).removeClass( "animated infinite pulse" );
+    console.log("Wax Off");
   }
 );
-});  
+});
 
 
 // $('#resPanel').hover(
