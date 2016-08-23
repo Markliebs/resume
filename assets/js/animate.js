@@ -22,6 +22,55 @@ $( ".resPanel" ).hover(
 );
 });
 
+$(document).ready(function() {
+$( ".nav1" ).hover(
+  function() {
+    $( this ).addClass( "animated infinite pulse" );
+    console.log("Wax On");
+  }, function() {
+    $( this ).removeClass( "animated infinite pulse" );
+    console.log("Wax Off");
+  }
+);
+});
+
+$(document).ready(function() {
+$( ".nav2" ).hover(
+  function() {
+    $( this ).addClass( "animated infinite pulse" );
+    console.log("Wax On");
+  }, function() {
+    $( this ).removeClass( "animated infinite pulse" );
+    console.log("Wax Off");
+  }
+);
+});
+
+$(document).ready(function() {
+$( ".nav3" ).hover(
+  function() {
+    $( this ).addClass( "animated infinite pulse" );
+    console.log("Wax On");
+  }, function() {
+    $( this ).removeClass( "animated infinite pulse" );
+    console.log("Wax Off");
+  }
+);
+});
+
+$(document).ready(function() {
+$( ".nav4" ).hover(
+  function() {
+    $( this ).addClass( "animated infinite pulse" );
+    console.log("Wax On");
+  }, function() {
+    $( this ).removeClass( "animated infinite pulse" );
+    console.log("Wax Off");
+  }
+);
+});
+
+
 
 // $('#resPanel').hover(
 //        function(){ $(this).addClass('animated pulse') },
