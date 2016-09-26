@@ -23,6 +23,15 @@ width: 80%;*/
   width: 50%;
 }
 
+.sections {
+    position: relative;
+    z-index: 2;
+}
+
+.about {
+    position: relative;
+    z-index: 1;
+}
 /*.resPanel:hover { 
     margin-left: 30%;
     margin-right: 30%;
