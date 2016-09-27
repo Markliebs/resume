@@ -39,7 +39,16 @@ width: 80%;*/
 .name {
     margin-top: 2px;
     margin-right: 100px;
-    /*float: right;*/
+    float: right;
     text-align: center;
+    text-decoration: none;
+}
+
+.name2 {
+    margin-top: 2px;
+    margin-right: 100px;
+    float: right;
+    text-align: center;
+    align-content: center;
     text-decoration: none;
 }
