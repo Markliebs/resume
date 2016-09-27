@@ -5,7 +5,15 @@
 
 .container {
     width: 100%;
+}
+
+.topmar {
     margin-top: 50px;
+}
+
+.navbuttons {
+    margin-top: 10px;
+    margin-left: 10px;
 }
 
 .resPanel {
@@ -22,6 +30,10 @@ width: 80%;*/
   margin-left: 25%;
   margin-right: 25%;
   width: 50%;
+}
+
+.nav1 {
+    align-content: center;
 }
 
 /*.resPanel:hover { 
