@@ -45,28 +45,40 @@ width: 80%;*/
 }
 
 .name2 {
-    margin-top: 2px;
-    margin-right: 100px;
-    float: right;
     text-align: center;
-    /*align-content: center;*/
     text-decoration: none;
 }
 
 .about-text {
-    padding-top: 50px;
+    padding-top: 25px;
     text-align: center;
 }
 
 .education {
-    padding-top: 50px;
+    padding-top: 25px;
     text-align: center;
 }
 
 .contact {
-    padding-top: 50px;
+    padding-top: 25px;
     margin-left: 25%;
     margin-right: 25%;
     margin-top: 15%;
     width: 100%;
+}
+
+.work {
+    padding-top: 25px;
+    margin-left: 25%;
+    width: 50%;
+    text-align: center;
+}
+
+.portfolio {
+    padding-top: 25px;
+    text-align: center;
+}
+
+.portheight {
+    height: 10%;
 }
