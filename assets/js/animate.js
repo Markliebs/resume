@@ -1,5 +1,5 @@
 $(document).ready(function () {
-  $(".resPanel, .pulseDiv").hover(
+  $(".pulseDiv").hover(
     function () {
       $(this).addClass("animated infinite pulse");
       console.log("Wax On");
